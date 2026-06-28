@@ -1,50 +1,62 @@
-# 🥷 Abhimanyu Badiger
+<div align="center">
 
-### `[ // building autonomous systems // bypassing hardware limits // zero-trust everything ]`
+# Hey, I'm Abhimanyu 👋
 
-> **I don't just write code. I fight the kernel, wrangle rogue multi-agent LLMs, and rawdog the internet over IPv6.**[cite: 3]
+### I build things that shouldn't work on the hardware they're running on.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhimanyubadiger)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badigerabhimanyu@gmail.com)
 
-### 🩸 The Lore (What I Actually Do)
+<br>
 
-I build things that shouldn't work on the hardware they're running on. I'm currently running a highly customized bare-metal home lab[cite: 3], building custom Virtual Machine Monitors in pure C[cite: 3], and shipping AI architectures that don't hallucinate.
+<!-- Dynamic GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ABHIMANYU993&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 
-* **Silicon Whispering:** Engineered a bare-metal VMM that parses ELF headers and injects multiboot magic values straight into `EAX` to force CPUs into 32-bit Protected Mode[cite: 3].
-* **AI Agent Orchestration:** Built deterministic LangGraph loops that actually work in production, slashing legacy intent routing from 30 seconds down to a sustained 1.6s[cite: 3].
-* **Hardware Bending:** Forced a 26GB Flux.1.dev model to train on a strict 24GB VRAM ceiling because paying for extra cloud compute is an L[cite: 3].
-* **System Infiltration:** Bypassed Wayland's strict window isolation using `wl-copy` and virtual keyboards to inject native AI text anywhere on the screen[cite: 3].
-* **Network Anarchy:** Punched stateful UDP holes through ISP Carrier-Grade NAT using an IPv6-first WireGuard overlay[cite: 3].
+</div>
 
----
+<br><br>
 
-### ⚔️ The Arsenal
+### 📈 The Matrix (Live Activity)
 
-```json
-{
-  "low_level": ["C", "x86_Assembly", "eBPF (bcc)", "Linux_KVM", "Wayland"],
-  "ai_infrastructure": ["PyTorch", "LangGraph", "Qdrant", "ChromaDB", "LoRA"],
-  "cloud_&_metal": ["Proxmox_VE", "WireGuard", "BGP", "Docker_Compose", "FRR"],
-  "stack": ["Python", "FastAPI", "MongoDB", "Zsh", "Redis"]
-}
+<!-- This renders a live line graph of your GitHub commits and activity -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHIMANYU993&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-```
+<br>
 
-*[cite: 3]*
+### 📊 The Metrics
 
----
+<!-- These render your total commits, PRs, streak stats, and top languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHIMANYU993&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIMANYU993&theme=radical&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak" />
+</div>
 
-### 🏆 Proof of Work
+<br>
 
-| ⚡ Status | 🎯 Bounty / Milestone |
-| --- | --- |
-| **SECURED** | **Official Indian Government Copyright** filed for an AI-generated code detection architecture using CodeBERT[cite: 3]. |
-| **DOMINATED** | **5x Hackathon Champion** (1st place at JSS Navotthana, HACKVERSE, CRYPTIC 3.0, CICADA, SCIENTIA)[cite: 3]. |
-| **SHIPPED** | Solo-engineered a native Google Workspace add-on, reverse-engineering canvas editor APIs to inject AI text without breaking formatting[cite: 3]. |
-| **DEFENDED** | Built an eBPF daemon with custom Zsh hooks to intercept hidden kernel subprocesses and dump them into ChromaDB for agentic memory[cite: 3]. |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIMANYU993&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
+</div>
 
----
+<br>
 
-### 📡 Let's Build Something Dangerous.
+### 🛠️ The Stack
 
-**[LinkedIn](https://www.google.com/search?q=https%3A%2F%2Flinkedin.com%2Fin%2Fabhimanyubadiger)** • **[Email](https://www.google.com/search?q=mailto%3Abadigerabhimanyu%40gmail.com)**
+<!-- Visual icons of your tech stack -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,docker,postgres,mongodb,redis,cloudflare,nginx&perline=10" alt="Tech Stack" />
+</div>
+
+<br>
+
+### ⚡ Current Status
+* **Building:** Custom Virtual Machine Monitors in pure C and optimizing AI orchestration layers.
+* **Experimenting:** Bypassing ISP Carrier-Grade NATs and intercepting window isolation for native AI injection.
+* **Shipping:** High-performance systems that force hardware to punch above its weight class.
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=150&section=footer" width="100%"/>
+</div>
