@@ -1,56 +1,79 @@
 <div align="center">
 
-# Hey, I'm Abhimanyu 👋
+# Hi, I'm Abhimanyu 👋
 
-### I build things that shouldn't work on the hardware they're running on.
+### *I build things that probably shouldn't work on the hardware they're running on.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhimanyubadiger)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badigerabhimanyu@gmail.com)
+> **I spend most of my time arguing with kernels, taming rogue multi-agent LLMs, and convincing ordinary hardware to do extraordinary things.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhimanyubadiger)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:badigerabhimanyu@gmail.com)
+
 </div>
+
+---
+
+## // Current Obsessions
+
+```text
+→ Building hypervisors from scratch
+→ Teaching AI agents to behave
+→ Breaking GPU limitations
+→ Living inside Linux
+→ Automating everything that annoys me
+```
+
+---
+
+## // Things I Keep Breaking (and Occasionally Fixing)
+
+* 🖥️ Bare-Metal Virtualization
+* 🤖 Multi-Agent AI Systems
+* 🧠 Local LLM Infrastructure
+* 🐧 Linux & eBPF
+* 🌐 Networking & Self-Hosting
+* ⚡ GPU Optimization
+
+---
+
+## // Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,postgres,mongodb,redis,cloudflare,nginx&perline=12"/>
+
+</div>
+
+---
+
+## // GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHIMANYU993&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## // Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ABHIMANYU993&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIMANYU993&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
-### 📈 The Matrix (Live Activity)
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIMANYU993&layout=compact&theme=github_dark&hide_border=true"/>
 
-<!-- This renders a live line graph of your GitHub commits and activity -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHIMANYU993&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<br>
-
-### 📊 The Metrics
-
-<!-- These render your total commits, PRs, streak stats, and top languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHIMANYU993&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIMANYU993&theme=radical&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIMANYU993&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
-</div>
 
-<br>
+> *"If it works the first time, I probably haven't understood it well enough."*
 
-### 🛠️ The Stack
-
-<!-- Visual icons of your tech stack -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,docker,postgres,mongodb,redis,cloudflare,nginx&perline=10" alt="Tech Stack" />
-</div>
-
-<br>
-
-### ⚡ Current Status
-* **Building:** Custom Virtual Machine Monitors in pure C and optimizing AI orchestration layers.
-* **Experimenting:** Bypassing ISP Carrier-Grade NATs and intercepting window isolation for native AI injection.
-* **Shipping:** High-performance systems that force hardware to punch above its weight class.
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=150&section=footer" width="100%"/>
 </div>
