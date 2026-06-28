@@ -6,12 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhimanyubadiger)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badigerabhimanyu@gmail.com)
-
-<br>
-
-<!-- Dynamic GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ABHIMANYU993&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-
 </div>
 
 <br><br>
